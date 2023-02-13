@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-🎓 **Estudando** : Gestão da tecnologia da informação.
+🎓 **Formação** : Gestão da tecnologia da informação.
 
 ⌨️ **Linguagens** : Javascript e PHP.
 
